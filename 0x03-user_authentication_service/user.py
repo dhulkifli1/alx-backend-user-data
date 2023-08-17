@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''Contains SQLALCHEMY model User'''
 
 from sqlalchemy import Column, Integer, String
